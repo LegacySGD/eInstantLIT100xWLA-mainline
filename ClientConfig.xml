@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="100x WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="100x" enableFreeSpin="Y" clientversion="1.0" gameId="300-2303-0" />
+	<GameClient name="100x WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="100x" enableFreeSpin="Y" clientversion="1.0" gameId="300-2303-0" />
+	<GameClient name="100x WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="100x" enableFreeSpin="Y" clientversion="1.0" gameId="300-2303-0" />
+</ClientConfig>
